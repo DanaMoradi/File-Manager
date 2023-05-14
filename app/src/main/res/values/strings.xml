@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="todo">todo</string>
+    <string name="search_something">Search Something...</string>
+    <string name="external_storage">External Storage</string>
+    <string name="add_new_folder">Add new folder</string>
+    <string name="create">Create</string>
+    <string name="enter_folder_name">Enter Folder Name</string>
+    <string name="delete">Delete</string>
+    <string name="move">move</string>
+    <string name="copy">copy</string>
+</resources>
